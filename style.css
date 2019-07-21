@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+h3 {
+  color: #FF3636;
+  font-size: 1.8em;
+}
+
+img {
+  height: 40vmin;
+  pointer-events: none;
+  margin: 130px 0 20px 0;
+}
